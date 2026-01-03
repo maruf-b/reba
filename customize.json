@@ -1,0 +1,30 @@
+{
+  "greeting": "Hello",
+  "name": "XX",
+  "greetingText": "I feel so lucky to have met you, the most beautiful you, in the most beautiful years of my life",
+  "wishText": "May your youthful beauty last forever, like flowers upon your hair, year after year. May your black hair never grow old, and may every year be filled with joy.",
+  "imagePath": "img/lydia2.png",
+  "text1": "Today is your birthday!!! :D",
+  "textInChatBox": "Wishing you a very, very, very sincere Happy Birthday!!! Lots and lots of happiness…",
+  "sendButtonLabel": "Send",
+  "text2": "I want to give you a surprise",
+  "text3": "I thought about it very seriously for a long time",
+  "text4": "I realized that I want to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "you are very special to me",
+  "smiley": ":)",
+  "bigTextPart1": "So",
+  "bigTextPart2": "",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "I hope you like this little surprise!",
+  "replayText": "If you like it, you can watch it again! Or…",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
